@@ -4,11 +4,11 @@ Horror MC aimes to make a more hardcore survival experience with horror elements
 
 As of now the modpack contains:
 
-60+ Mods
+100+ Mods
 
 5 Resource Packs
 
-1 Shader
+2 Shader packs built in
 
  
 
