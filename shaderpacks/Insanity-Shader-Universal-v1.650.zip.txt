@@ -1,0 +1,4 @@
+#Sat Aug 24 13:50:20 CEST 2024
+shadowDistance=128.0
+REFLECTION=1
+shadowMapResolution=1024
