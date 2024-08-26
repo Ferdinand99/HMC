@@ -44,5 +44,6 @@
   "minecraft:total_enchantment_power": null,
   "minecraft:villager_profession": null,
   "minecraft:zombie_villager": null,
+  "securitycraft:info": null,
   "waystones:waystone": null
 }
