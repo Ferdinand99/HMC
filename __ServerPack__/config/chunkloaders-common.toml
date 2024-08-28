@@ -18,19 +18,19 @@
 [General]
     # In what radius should the Single Chunk Loader be able to load chunks?
     # Allowed range: 1 ~ 6 - Default: 1
-    singleChunkLoaderRadius = 2
+    singleChunkLoaderRadius = 1
 
     # In what radius should the Basic Chunk Loader be able to load chunks?
     # Allowed range: 1 ~ 6 - Default: 2
-    basicChunkLoaderRadius = 3
+    basicChunkLoaderRadius = 2
 
     # In what radius should the Advanced Chunk Loader be able to load chunks?
     # Allowed range: 1 ~ 6 - Default: 3
-    advancedChunkLoaderRadius = 4
+    advancedChunkLoaderRadius = 3
 
     # In what radius should the Ultimate Chunk Loader be able to load chunks?
     # Allowed range: 1 ~ 6 - Default: 4
-    ultimateChunkLoaderRadius = 6
+    ultimateChunkLoaderRadius = 4
 
     # Should chunk loaders do random ticks in loaded chunks?
     # Allowed values: true, false - Default: true
