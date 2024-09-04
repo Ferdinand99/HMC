@@ -20,3 +20,7 @@
 	#Controls difficulty for ALL ArPhEx mobs, minibosses, and bosses. Affects their ranged projectiles too. Default value is 0. Positive values will give that level of strength. Negative values will give that equivalent level of weakness. E.g. To give all ArPhEx mobs permanent strength 5 (extreme difficulty!), set the value to 6, or for weakness 5, set it to -6. Avoid decimal and negative numbers.
 	"Overall Difficulty Control" = 0.0
 
+[Other]
+	#When you join a world for the first time with ArPhEx installed, it shows a welcome message, informing you about the wiki and showing that the mod is active. Set to false to disable.
+	welcome_message = true
+

@@ -6,7 +6,7 @@ As of now the modpack contains:
 
 100+ Mods
 
-5 Resource Packs
+5+ Resource Packs
 
 1 Shader packs built in
 
